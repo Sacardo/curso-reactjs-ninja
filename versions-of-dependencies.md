@@ -54,7 +54,7 @@ npm install --save react@15.4 react-dom@15.4
 dependências do babel:
 
 ```
-npm install --save-dev babel-core@6 babel-loader@6 babel-preset-es2015@6 babel-preset-stage-0@6
+npm install --save-dev babel-core@6.26.3 babel-loader@6.4.1 babel-preset-es2015@6.24.1 babel-preset-stage-0@6.24.1
 ```
 
 ### Vídeo 7
